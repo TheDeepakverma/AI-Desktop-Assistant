@@ -1,0 +1,9 @@
+SpeechRecognition
+pyttsx3
+pyaudio
+tk
+pydub
+ttkthemes
+pycaw
+geocoder
+twilio
